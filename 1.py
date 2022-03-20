@@ -1,5 +1,5 @@
 from email.mime import audio
-import speech_recognition as sr
+import speech_recognition as sr................
 mnlop
 recognizer = sr.Recognizer()
 
