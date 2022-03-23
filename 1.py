@@ -49,5 +49,5 @@ while(1):
 		print("Could not request results; {0}".format(e))
 		
 	except sr.UnknownValueError:
-		print("unknown error occured")
+		print("Please say again")
 
